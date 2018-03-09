@@ -1,0 +1,12 @@
+Package: PopDynPkgSean
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Sean Perez
+Maintainer: The package maintainer <seanperez@berkeley.edu>
+Description: Models population dynamics between predator and prey under specific parameters. 
+License: GPL 
+Encoding: UTF-8 
+LazyData: true
+Imports: tidyverse
+RoxygenNote: 6.0.1
